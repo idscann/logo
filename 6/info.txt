@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: kimberley_bl
+font link: https://www.fontspring.com/fonts/typodermic/kimberley
+font author: Typodermic
+font author site: http://typodermicfonts.com/
+
+
+icon designer: Doub.co
+icon designer link: /doub
+        
+
+fontColor: {"gradient-0":"#E41748","gradient-1":"#1A35EA"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"gradient-0":"#E41748","gradient-1":"#1A35EA"}
+
+      
