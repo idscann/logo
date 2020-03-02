@@ -13,6 +13,28 @@ Logo images
 #fffff
 
 
+# Color2
+
+## Icon
+red
+        #E41748
+
+blue
+        #1836FF
+        #1A35EA
+
+## Font
+#1A35EA
+
+<div class="glitter-meta-authors" style="color: rgb(26, 53, 234);">
+        Font in use <a target="_blank" href="https://www.fontsquirrel.com/fonts/titillium">Titillium-Regular</a> designed by
+        <a target="_blank" href="http://www.accademiadiurbino.it/">Accademia di Belle Arti Urbino</a>
+        and licensed under
+        <a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
+          Icon Designed by
+          <a target="_blank" href="https://thenounproject.com/fatnaruto">libertetstudio</a></div>
+          
+          
 
 # Font
 
