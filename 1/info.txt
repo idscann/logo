@@ -1,14 +1,18 @@
 
 Hope you enjoy your new logo, here are the people that
 made your beautiful logo happen :)
-font name: GlacialIndifference-Regular
-font link: https://hanken.co/product/hk-grotesk/
-font author: Hanken Design Co.
-font author site: https://hanken.co/
+font name: Coda-Regular
+font link: https://fonts.google.com/specimen/Coda
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
 
 
-icon designer: libertetstudio
-icon designer link: /fatnaruto
+icon designer: junie
+icon designer link: /juniestudio
         
-{"bg":"#8D000F","icon":"#F6318E","font":"#ffffff","slogan":"#ffffff"}
+
+fontColor: {"gradient-0":"#fec212","gradient-1":"#A54B07"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#fec212","gradient-1":"#A54B07"}
+
       

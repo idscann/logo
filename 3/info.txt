@@ -1,18 +1,18 @@
 
 Hope you enjoy your new logo, here are the people that
 made your beautiful logo happen :)
-font name: Titillium-Regular
-font link: https://www.fontsquirrel.com/fonts/titillium
-font author: Accademia di Belle Arti Urbino
-font author site: http://www.accademiadiurbino.it/
+font name: Coda-Regular
+font link: https://fonts.google.com/specimen/Coda
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
 
 
-icon designer: libertetstudio
-icon designer link: /fatnaruto
+icon designer: junie
+icon designer link: /juniestudio
         
 
-fontColor: {"gradient-0":"#1A35EA","gradient-1":"#E41748"}
-bgColor: {"hex":"#FFFFFF"}
-iconColor: {"gradient-0":"#1A35EA","gradient-1":"#E41748"}
+fontColor: {"gradient-0":"#fec212","gradient-1":"#A54B07"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#fec212","gradient-1":"#A54B07"}
 
       

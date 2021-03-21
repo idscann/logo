@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: GlacialIndifference-Regular
+font link: https://hanken.co/product/hk-grotesk/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: libertetstudio
+icon designer link: /fatnaruto
+        
+{"bg":"#8D000F","icon":"#F6318E","font":"#ffffff","slogan":"#ffffff"}
+      
